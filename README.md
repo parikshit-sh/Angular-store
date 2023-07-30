@@ -2,7 +2,7 @@
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.2.0.
 
 This is a simple e-commerce website built with Angular and Tailwind CSS. 
-# Live Demo: https://angular-store-omega.vercel.app/home
+Live Demo: https://angular-store-omega.vercel.app/home
 
 # Build with:
 Tailwind CSS
