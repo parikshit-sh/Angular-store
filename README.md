@@ -5,9 +5,7 @@ This is a simple e-commerce website built with Angular and Tailwind CSS.
 
 👉 Live Demo: https://angular-store-omega.vercel.app/home
 
-Build with: 
-» Tailwind CSS
-» Angular
+
 
 
 ## Development server
